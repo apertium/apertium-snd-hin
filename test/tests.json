@@ -1,0 +1,10 @@
+{
+    "hin-snd": {
+        "input": "hin-snd-input.txt",
+        "mode": "hin-snd"
+    },
+    "snd-hin": {
+        "input": "snd-hin-input.txt",
+        "mode": "snd-hin"
+    }
+}
